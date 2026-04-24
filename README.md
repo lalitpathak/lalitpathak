@@ -1,4 +1,5 @@
 Hi, I’m Lalit Pathak
+
 Data Analyst | Business Intelligence | Microsoft Data Stack | Analytics Professional (8+ Years)
 
 I’m a data-focused professional with 8+ years of experience delivering analytics and business intelligence solutions. I specialize in transforming raw data into meaningful insights that support decision-making, improve performance, and drive business strategy.
