@@ -28,24 +28,19 @@ ________________________________________________________________________________
 **Tech Stack**
 
 **🔹 Analytics & BI**
-
-	  Tableau · Power BI · Google Data Studio · Excel · KPI Reporting · Data Visualisation · Dashboard Development · KPI Reporting
+	Tableau · Power BI · Google Data Studio · Excel · KPI Reporting · Data Visualisation · Dashboard Development · KPI Reporting
 		 · Business Analytics · Data Storytelling
 
 **🔹 Data & Engineering**	  
-
     ETL Pipelines · Data Warehousing · Data Lakes · Data Modeling · Data Mining 
 
 **🔹 Programming & Databases**
-
     Python · SQL · NoSQL · Hadoop · Informatica
-
+	
 **🔹 CRM & Tools**  
-
     Salesforce · Zapier · SharePoint · DocuSign · Xero
-
+	
 **🔹 Version Control & Collaboration**	
-    
     Git · GitHub · Documentation & Versioning Best Practices
 ____________________________________________________________________________________________________________________________________________________
 **Roles of Interest**
